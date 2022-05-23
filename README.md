@@ -1,4 +1,4 @@
-# teste_animated
+# time_animação
 
 A new Flutter project.
 
